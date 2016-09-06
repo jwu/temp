@@ -1,0 +1,17 @@
+{
+  "name": "simple-package",
+  "main": "main.js",
+  "main-menu": {
+    "Panel/Simple Panel": {
+      "message": "simple-package:open"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "Simple Panel",
+    "width": 400,
+    "height": 300
+  }
+}
+
